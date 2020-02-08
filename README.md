@@ -82,7 +82,11 @@ Discription will be updated later.
 
 # Help
 ## Building
-We need to install Intel tbb on your machine. Then, Just run following command to build GraphOne:
+We need to install Intel tbb on your machine. 
+
+  `sudo apt-get install libtbb-dev`
+  
+Then, Just run following command to build GraphOne:
 
   `mkdir build`
   `cd build`
